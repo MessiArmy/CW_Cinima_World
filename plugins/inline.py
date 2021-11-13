@@ -39,7 +39,7 @@ async def answer(bot, query):
 
     for file in files:
         title=file.file_name
-        size=get_size(file.file_size)
+        size=get_size(file)
         f_caption=file.caption
         if CUSTOM_FILE_CAPTION:
             try:
@@ -91,7 +91,7 @@ async def answer(bot, query):
 def get_reply_markup(query):
     buttons = [
         [
-            InlineKeyboardButton('Search again', switch_inline_query_current_chat=query)
+            InlineKeyboardButton('Search again 🔄', switch_inline_query_current_chat=query)
         ]
         ]
     return InlineKeyboardMarkup(buttons)
