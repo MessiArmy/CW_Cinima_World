@@ -49,7 +49,7 @@
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
+<i>**[Join Our Channel...](https://t.me/FM_Update)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
@@ -100,11 +100,11 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaUpdates)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/FM_Admin_owner)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/FM_Admin_owner)
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+* [![Salman](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/FM_Admin_owner)
 
 
 ## Thanks to 
@@ -115,9 +115,9 @@ python3 bot.py
 
 ### Note
 
-[Note To A So Called Dev](https://telegram.dog/subin_works/203): 
+[Note To A So Called Dev](https://telegram.dog/FM_Admin_owner): 
 
-Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo wont make you a Developer.
+Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/FM_Admin_owner0), beta , gama branches of your repo wont make you a Developer.
 Fork the repo and edit as per your needs.
 
 ## Disclaimer
